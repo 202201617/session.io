@@ -1,0 +1,27 @@
+
+* {
+    font-family: "Hahmlet", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+li:hover{background-color: rgb(255, 241, 229);}
+
+h2 {
+  background-color: rgb(151, 194, 255);
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.phj {
+  padding: 50px;
+  margin: 50px;
+}
+
+.appear{
+  border: 20px solid;
+}
